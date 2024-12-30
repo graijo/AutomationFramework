@@ -1,0 +1,76 @@
+2024-12-30 22:34:14.331 [main] INFO  executionLogger - Executing BeforeSuiteMethod --Web Tests 2
+2024-12-30 22:34:14.347 [main] INFO  executionLogger - Test Suite started
+2024-12-30 22:34:14.347 [main] INFO  executionLogger - implicitWait------10
+2024-12-30 22:34:14.374 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest --Web Tests
+2024-12-30 22:34:14.374 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest --Web Tests 2
+2024-12-30 22:34:14.400 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass 
+2024-12-30 22:34:14.400 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass 
+2024-12-30 22:34:14.415 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod --Web Tests 2
+2024-12-30 22:34:14.415 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod --Web Tests
+2024-12-30 22:34:14.415 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:34:14.415 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:34:27.502 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:34:27.717 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:34:27.852 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //button[@type="submit"]]
+2024-12-30 22:34:28.278 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:34:28.452 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:34:28.585 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //button[@type="submit"]]
+2024-12-30 22:34:30.901 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2024-12-30 22:34:31.006 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //a[text()="+"]]
+2024-12-30 22:34:31.659 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2024-12-30 22:34:31.760 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //a[text()="+"]]
+2024-12-30 22:34:34.619 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //button[text()="ADD TO CART"]]
+2024-12-30 22:34:34.740 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //img[@alt="Cart"]]
+2024-12-30 22:34:34.835 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:34:34.899 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8325d3022c64bdf6ab7493ecf5c8ea29)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:34:34.899 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2024-12-30 22:34:35.167 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2024-12-30 22:34:35.167 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2024-12-30 22:34:35.167 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2024-12-30 22:34:35.368 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //button[text()="ADD TO CART"]]
+2024-12-30 22:34:35.491 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //img[@alt="Cart"]]
+2024-12-30 22:34:35.601 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:34:35.676 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (686cb015a79f12983851f809c3591803)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:34:35.676 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2024-12-30 22:34:35.893 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2024-12-30 22:34:35.893 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2024-12-30 22:34:35.893 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2024-12-30 22:34:35.893 [main] INFO  executionLogger - Executing AfterSuite 
+2024-12-30 22:41:25.311 [main] INFO  executionLogger - Executing BeforeSuiteMethod --Web Tests 2
+2024-12-30 22:41:25.311 [main] INFO  executionLogger - Test Suite started
+2024-12-30 22:41:25.311 [main] INFO  executionLogger - implicitWait------10
+2024-12-30 22:41:25.340 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest --Web Tests  26
+2024-12-30 22:41:25.340 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest --Web Tests 2  27
+2024-12-30 22:41:25.359 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass 27
+2024-12-30 22:41:25.359 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass 26
+2024-12-30 22:41:25.371 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod --Web Tests  26
+2024-12-30 22:41:25.371 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod --Web Tests 2  27
+2024-12-30 22:41:25.371 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:41:25.371 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:41:28.030 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:41:28.237 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:41:28.350 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //button[@type="submit"]]
+2024-12-30 22:41:28.358 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:41:28.561 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //input[contains(@class,"search")]]
+2024-12-30 22:41:28.653 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //button[@type="submit"]]
+2024-12-30 22:41:31.402 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2024-12-30 22:41:31.522 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //a[text()="+"]]
+2024-12-30 22:41:31.710 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2024-12-30 22:41:31.831 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //a[text()="+"]]
+2024-12-30 22:41:35.128 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //button[text()="ADD TO CART"]]
+2024-12-30 22:41:35.265 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //img[@alt="Cart"]]
+2024-12-30 22:41:35.373 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:41:35.447 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //button[text()="ADD TO CART"]]
+2024-12-30 22:41:35.461 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7e43c732266c8e46e9b905208a0ca7f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:41:35.469 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2024-12-30 22:41:35.578 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //img[@alt="Cart"]]
+2024-12-30 22:41:35.720 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2024-12-30 22:41:35.721 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2024-12-30 22:41:35.723 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2024-12-30 22:41:35.733 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:41:35.825 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (0a225775f3e8b80ef938590163efa84d)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2024-12-30 22:41:35.825 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2024-12-30 22:41:36.056 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2024-12-30 22:41:36.056 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2024-12-30 22:41:36.056 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2024-12-30 22:41:36.056 [main] INFO  executionLogger - Executing AfterSuite 

@@ -1,0 +1,321 @@
+2024-12-30 02:04:29.658 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 02:04:29.659 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 02:04:29.687 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 02:04:32.358 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 02:07:19.871 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 02:07:19.872 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 02:07:19.896 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 02:07:22.610 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 10:48:23.355 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 10:48:23.355 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 10:48:23.386 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 10:48:26.219 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 10:49:21.177 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 10:49:21.177 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 10:49:21.192 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 10:49:24.337 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:01:33.631 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:01:33.631 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:01:33.646 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:03:37.230 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:03:37.230 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:03:37.247 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:03:39.864 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:11:11.896 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:11:11.896 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:11:11.911 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:11:15.093 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:14:47.194 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:14:47.194 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:14:47.227 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:14:57.093 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:19:13.691 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:19:13.691 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:19:13.737 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:19:23.616 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:20:10.728 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:20:10.728 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:20:10.765 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:20:20.661 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:21:44.939 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:21:44.939 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:21:44.971 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:21:54.419 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:22:02.835 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:22:02.835 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:22:02.851 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:22:12.516 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:22:17.922 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:22:17.922 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:22:17.938 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:22:27.712 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:41:15.365 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:41:15.365 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:41:15.380 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:41:25.527 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:45:20.526 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:45:20.526 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:45:20.558 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:46:44.780 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:46:44.780 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:46:44.811 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:46:54.898 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:49:58.271 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:49:58.271 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:49:58.286 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:50:08.563 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:50:44.790 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:50:44.790 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:50:44.806 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:50:55.308 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:52:32.416 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:52:32.416 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:52:32.451 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:52:42.834 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:53:31.403 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:53:31.403 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:53:31.435 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:53:41.318 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:53:52.347 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:53:52.347 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:53:52.380 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:54:02.738 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:59:02.642 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:59:02.642 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:59:02.674 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:59:12.979 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 17:59:24.289 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 17:59:24.289 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 17:59:24.305 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 17:59:34.610 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:03:50.331 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:03:50.331 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:03:50.363 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:04:03.283 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:18:50.994 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:18:50.994 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:18:51.041 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:19:02.715 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:19:37.887 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:19:37.887 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:19:38.029 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:19:49.838 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:19:49.853 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:19:49.853 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:19:49.885 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:19:49.885 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:19:49.894 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:20:00.744 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:21:20.360 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:21:20.376 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:21:20.485 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:21:31.811 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 18:21:31.827 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:21:31.827 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:21:31.874 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 18:21:31.874 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 18:21:31.889 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 18:21:44.211 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:03:11.821 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:03:11.821 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:03:11.852 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:03:23.595 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:03:23.602 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:03:24.979 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:03:46.007 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:03:46.007 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:03:46.038 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:03:57.046 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:03:57.047 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:03:59.040 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:05:58.050 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:05:58.066 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:05:58.093 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:06:09.302 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:06:09.304 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:06:10.483 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:06:31.628 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:06:31.628 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:06:31.676 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:06:44.555 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:39:06.696 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:39:06.696 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:39:06.791 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:39:20.060 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:39:20.075 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:39:20.075 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:39:20.107 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:39:32.674 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:42:27.403 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:42:27.404 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:42:27.467 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:42:40.459 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:44:28.014 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:44:28.014 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:44:28.077 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:44:39.459 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:45:15.396 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:45:15.397 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:45:15.453 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:45:28.253 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:58:23.163 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:58:23.163 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:58:23.241 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:58:36.479 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 19:59:04.752 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 19:59:04.752 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 19:59:04.794 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 19:59:17.568 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:07:02.576 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:07:02.577 [main] INFO  frameworkLogger - implicitWait------null
+2024-12-30 20:07:02.618 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:07:05.319 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:08:28.219 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:08:28.219 [main] INFO  frameworkLogger - implicitWait------null
+2024-12-30 20:08:28.245 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:08:30.131 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:08:31.696 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:10:15.971 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:10:15.971 [main] INFO  frameworkLogger - implicitWait------null
+2024-12-30 20:10:15.999 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:10:18.299 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:10:18.304 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:10:19.907 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:11:58.663 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:11:58.664 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:11:58.691 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:12:01.100 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:12:01.125 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:12:13.516 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:12:24.170 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:12:24.171 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:12:24.201 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:12:26.829 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:12:26.833 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:12:39.845 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:13:41.185 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:13:41.186 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:13:41.216 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:13:43.688 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:13:43.693 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:13:54.556 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:14:00.522 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:14:00.522 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:14:00.552 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:14:02.854 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:14:02.860 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:14:13.904 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:14:40.883 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:14:40.883 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:14:40.917 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:14:43.520 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:14:43.546 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:14:55.814 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:16:25.215 [main] ERROR frameworkLogger - Error loading configuration
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.base/java.util.Properties.load(Properties.java:407) ~[?:?]
+	at org.mine.tests.BaseTest.loadConfig(BaseTest.java:120) [test-classes/:?]
+	at org.mine.tests.BaseTest.beforeSuite(BaseTest.java:33) [test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2024-12-30 20:16:25.230 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:16:25.230 [main] INFO  frameworkLogger - implicitWait------null
+2024-12-30 20:16:25.262 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:16:26.926 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:16:26.926 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:16:28.127 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:19:41.216 [main] ERROR frameworkLogger - Error loading configuration
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:233) ~[?:?]
+	at java.base/java.util.Properties.load(Properties.java:407) ~[?:?]
+	at org.mine.tests.BaseTest.loadConfig(BaseTest.java:120) [test-classes/:?]
+	at org.mine.tests.BaseTest.beforeSuite(BaseTest.java:33) [test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) [testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2024-12-30 20:19:41.216 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:19:41.216 [main] INFO  frameworkLogger - implicitWait------null
+2024-12-30 20:19:41.248 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:19:43.070 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:20:05.334 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:20:05.334 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:20:05.350 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:20:15.419 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:20:34.200 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:20:34.200 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:20:34.215 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:20:44.473 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:20:58.659 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 20:20:58.659 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 20:20:58.693 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:21:00.363 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 20:21:00.363 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 20:21:09.855 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 21:30:44.042 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 21:30:44.042 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 21:30:44.073 [TestNG-test=Web Tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 21:30:54.560 [TestNG-test=Web Tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 21:30:54.568 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 21:31:04.134 [TestNG-test=Web Tests 2-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 21:31:20.549 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 21:31:20.549 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 21:31:20.588 [TestNG-tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 21:31:20.588 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 21:31:30.800 [TestNG-tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 21:31:30.845 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:04:02.911 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 22:04:02.911 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 22:04:02.942 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:04:13.739 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:04:13.741 [main] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:04:23.294 [main] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:08:41.891 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 22:08:41.891 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 22:08:41.931 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:08:41.931 [TestNG-tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:08:52.414 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:08:52.826 [TestNG-tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:11:38.468 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 22:11:38.468 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 22:11:38.516 [TestNG-tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:11:38.516 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:11:48.876 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:11:48.923 [TestNG-tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:25:01 [main] INFO  frameworkLogger - Test Suite started
+2024-12-30 22:25:01 [main] INFO  frameworkLogger - implicitWait------10
+2024-12-30 22:25:01 [TestNG-tests-1] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:25:01 [TestNG-tests-2] INFO  frameworkLogger - Setting up WebDriver for browser: chrome
+2024-12-30 22:25:11 [TestNG-tests-1] INFO  frameworkLogger - WebDriver closed
+2024-12-30 22:25:11 [TestNG-tests-2] INFO  frameworkLogger - WebDriver closed

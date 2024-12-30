@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG">
+    <Properties>
+        <!-- Define log file location and pattern -->
+        <Property name="basePath">logs</Property>
+        <Property name="pattern">%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+<!--            <PatternLayout pattern="${pattern}"/>-->
+<!--            to print thread information -->
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- File Appender for framework logs -->
+        <RollingFile name="Framework"
+                     fileName="${basePath}/framework.log"
+                     filePattern="${basePath}/framework-%d{yyyy-MM-dd}-%i.log">
+<!--            <PatternLayout pattern="${pattern}"/>-->
+            <!--            to print thread information -->
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+
+        <!-- File Appender for test execution logs -->
+        <RollingFile name="TestExecution"
+                     fileName="${basePath}/test-execution.log"
+                     filePattern="${basePath}/test-execution-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="${pattern}"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Framework Logger -->
+        <Logger name="frameworkLogger" level="DEBUG" additivity="false">
+            <AppenderRef ref="Framework"/>
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- Test Execution Logger -->
+        <Logger name="executionLogger" level="DEBUG" additivity="false">
+            <AppenderRef ref="TestExecution"/>
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- Root Logger -->
+        <Root level="DEBUG">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>
