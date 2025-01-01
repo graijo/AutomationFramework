@@ -3,6 +3,7 @@ package org.mine.tests;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.mine.listeners.WebDriverEventListenerClass;
 import org.mine.pages.manager.PageObjectManager;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -10,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestContext;
 import org.testng.annotations.*;
 
@@ -68,6 +70,18 @@ public class BaseTest {
 
         // Initialize WebDriver based on browser parameter
         driver = createDriver(browser);
+
+        // Register WebDriver event listener
+        // Wrap WebDriver in EventFiringWebDriver to listen to WebDriver events
+        EventFiringWebDriver eventFiringDriver = new EventFiringWebDriver(driver);
+        // Register your WebDriverEventListener
+        WebDriverEventListenerClass eventListener = new WebDriverEventListenerClass();
+        // Assign the eventFiringWebDriver to your original driver reference
+        eventFiringDriver.register(eventListener);
+        // Use eventFiringDriver instead of driver in your tests
+        driver = eventFiringDriver;
+
+
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.manage().window().maximize();
         //for thread safety when running test methods in paralel
@@ -80,13 +94,6 @@ public class BaseTest {
         //Method-level cleanup,
         //  Delete cookies, close WebDriver instances, or clear API client sessions.
         logger.info("Executing AfterMethod ");
-        TakesScreenshot takesScreenshot=(TakesScreenshot) driver;
-        File sourceFile=takesScreenshot.getScreenshotAs(OutputType.FILE);
-        try {
-            FileUtils.copyFile(sourceFile,new File("C:\\DATAFOLDER\\Udemy\\repo\\SCREENSHOTS\\failed.png"));
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
         if (driver != null) {
             driver.quit();
             logger.info("WebDriver closed");
@@ -142,5 +149,8 @@ public class BaseTest {
 //                ex.printStackTrace();
 //            }
 //        }
+    }
+    public WebDriver getDriver() {
+        return driver;
     }
 }

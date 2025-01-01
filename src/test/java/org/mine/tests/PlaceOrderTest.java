@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class PlaceOrderTest extends BaseTest{
     AddToCartPage addToCartPage;
     PlaceOrderPage placeOrderPage;
-    @Test
+    @Test(retryAnalyzer = org.mine.listeners.RetryAnalyzer.class)
     public void verify_placeOrderPage(){
 //        appUrl=properties.getProperty("test.Url");
         driver.get(appUrl);
@@ -18,7 +18,7 @@ public class PlaceOrderTest extends BaseTest{
         addToCartPage.searchAndAddProductToCart("Pumpkin - 1 Kg");
         addToCartPage.proceedToCheckOut();
         placeOrderPage=pageObjectManager.getplaceOrder();
-//        placeOrderPage.verifyQuantityandClickOnPlaceOrderButton();
+        placeOrderPage.verifyQuantityandClickOnPlaceOrderButton();
 
 
     }
