@@ -7,7 +7,7 @@ import org.testng.Assert;
 
 public class PlaceOrderPage extends BasePage{
 
-    @FindBy(xpath = "///p[@class=\"quantity\"]")
+    @FindBy(xpath = "///p[@class='quantity']")
     WebElement homeLocatorQuantityText;
 
     @FindBy(xpath = "//button[text()='Place Order']")

@@ -39,6 +39,8 @@ public class BaseTest {
         logger.info("Test Suite started");
         logger.info("implicitWait------"+implicitWait);
 
+        clearAllureResults();
+
     }
 
     @BeforeTest
@@ -152,5 +154,18 @@ public class BaseTest {
     }
     public WebDriver getDriver() {
         return driver;
+    }
+
+    //The allure-results directory is not cleared automatically before a new test run.
+    //To need to clear it manually or configure your test execution process to do so.
+    //Automating cleanup (via Maven, @BeforeSuite, or CI) is recommended to ensure consistency and prevent outdated results from being included in the report.
+    public void clearAllureResults() {
+        File allureResultsDir = new File("allure-results");
+        if (allureResultsDir.exists()) {
+            for (File file : allureResultsDir.listFiles()) {
+                file.delete();
+            }
+            allureResultsDir.delete();
+        }
     }
 }

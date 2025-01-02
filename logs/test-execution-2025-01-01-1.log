@@ -1,0 +1,1274 @@
+2025-01-01 10:21:16.287 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 10:21:16.303 [main] INFO  executionLogger - Test Suite started
+2025-01-01 10:21:16.303 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 10:21:16.329 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 10:21:16.329 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 10:21:16.353 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 10:21:16.353 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 10:21:16.377 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 10:21:16.377 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 10:21:16.377 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:21:16.377 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:21:20.583 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:21:20.583 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:21:20.840 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:21:20.840 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:21:20.998 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:21:20.998 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:21:24.134 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:21:24.136 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:21:24.324 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //a[text()="+"]]
+2025-01-01 10:21:24.324 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //a[text()="+"]]
+2025-01-01 10:21:28.016 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:21:28.016 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:21:28.237 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:21:28.239 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:21:28.427 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:21:28.437 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:21:28.539 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (399356d6b1cea4cf7b7ebd4fe43a29ea)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:21:28.548 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d781d3a8372243d65ed206a980974696)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:21:28.552 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:21:28.552 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:21:28.949 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 10:21:28.949 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:21:28.949 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:21:29.827 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 10:21:29.827 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:21:29.827 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:21:29.827 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 10:37:50.143 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 10:37:50.143 [main] INFO  executionLogger - Test Suite started
+2025-01-01 10:37:50.143 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 10:37:50.167 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 10:37:50.167 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 10:37:50.188 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 10:37:50.188 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 10:37:50.214 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 10:37:50.214 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 10:37:50.214 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:37:50.214 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:37:54.138 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:37:54.199 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:37:54.562 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:37:54.605 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:37:54.776 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:37:54.789 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:37:57.882 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:37:57.896 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:37:58.090 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //a[text()="+"]]
+2025-01-01 10:37:58.139 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //a[text()="+"]]
+2025-01-01 10:38:01.823 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:38:01.921 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:38:02.112 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:38:02.221 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:38:02.349 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:02.454 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:02.517 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9cf5ebd50ca97ca4e8d54c8efa4d4cf9)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:02.530 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:38:02.687 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27aae11e488db2084a84ceb6f2664bae)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:02.687 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:38:03.697 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 10:38:03.697 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:38:03.697 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:38:03.798 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 10:38:03.798 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:38:03.798 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:38:03.798 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 10:38:43.525 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 10:38:43.525 [main] INFO  executionLogger - Test Suite started
+2025-01-01 10:38:43.525 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 10:38:43.556 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 10:38:43.556 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 10:38:43.581 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 10:38:43.581 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 10:38:43.600 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 10:38:43.600 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 10:38:43.600 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:38:43.600 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:38:47.493 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:38:47.503 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:38:47.765 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:38:47.795 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:38:47.928 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:38:47.953 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:38:51.035 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:38:51.062 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:38:51.277 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //a[text()="+"]]
+2025-01-01 10:38:51.318 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //a[text()="+"]]
+2025-01-01 10:38:55.086 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:38:55.086 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:38:55.302 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:38:55.302 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:38:55.593 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:55.593 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:55.744 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ea02754ff5db77641c1eb579e024b330)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:55.744 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:38:55.744 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (dfc44edcba8e3867cd410ff8c7daec75)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:38:55.834 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:38:56.497 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 10:38:56.497 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:38:56.497 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:38:56.560 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 10:38:56.560 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:38:56.560 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:38:56.560 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 10:41:21.971 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 10:41:21.971 [main] INFO  executionLogger - Test Suite started
+2025-01-01 10:41:21.971 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 10:41:21.995 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 10:41:21.995 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 10:41:22.013 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 10:41:22.013 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 10:41:22.029 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 10:41:22.029 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 10:41:22.030 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:41:22.030 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:41:26.050 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:41:26.050 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:41:26.318 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:41:26.318 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:41:26.475 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:41:26.483 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:41:29.580 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:41:29.595 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:41:29.789 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //a[text()="+"]]
+2025-01-01 10:41:29.808 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //a[text()="+"]]
+2025-01-01 10:41:33.533 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:41:33.550 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:41:33.721 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:41:33.757 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:41:33.933 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:41:33.972 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:41:34.092 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4869a9c01764db66d7c00acbdb865272)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:41:34.106 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 10:41:34.106 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:41:34.139 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (452fe5cc961b520fdb3579d9c3af45bf)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:41:34.190 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 10:41:34.190 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 10:41:34.203 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:41:34.714 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 10:41:34.714 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:41:34.714 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:41:35.123 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 10:41:35.123 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:41:35.123 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:41:35.123 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 10:45:28.020 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 10:45:28.020 [main] INFO  executionLogger - Test Suite started
+2025-01-01 10:45:28.020 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 10:45:28.041 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 10:45:28.041 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 10:45:28.061 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 10:45:28.061 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 10:45:28.079 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 10:45:28.079 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 10:45:28.079 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:45:28.079 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 10:45:31.771 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:45:31.805 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:45:32.021 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:45:32.054 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 10:45:32.162 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:45:32.188 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //button[@type="submit"]]
+2025-01-01 10:45:35.246 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:45:35.279 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 10:45:35.420 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //a[text()="+"]]
+2025-01-01 10:45:35.462 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //a[text()="+"]]
+2025-01-01 10:45:39.088 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:45:39.155 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 10:45:39.511 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:45:39.595 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 10:45:39.839 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:45:39.883 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:45:39.986 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f1aeb317584db9e746745aa378652ced)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:45:40.052 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b2de5c8d82b3bb8ab0520ce359365b1)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 10:45:40.052 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 10:45:40.052 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:45:40.052 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 10:45:40.052 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 10:45:40.068 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 10:45:40.943 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 10:45:40.943 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:45:40.943 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:45:41.164 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 10:45:41.164 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 10:45:41.164 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 10:45:41.164 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 11:05:13.679 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 11:05:13.679 [main] INFO  executionLogger - Test Suite started
+2025-01-01 11:05:13.679 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 11:05:13.712 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 11:05:13.712 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 11:05:13.735 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 11:05:13.735 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 11:05:13.753 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 11:05:13.753 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 11:05:13.753 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:05:13.753 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:05:18.119 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:05:18.119 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:05:18.425 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:05:18.425 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:05:18.595 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:05:18.600 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:05:21.694 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:05:21.696 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:05:21.918 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //a[text()="+"]]
+2025-01-01 11:05:22.000 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //a[text()="+"]]
+2025-01-01 11:05:25.667 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:05:25.751 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:05:25.866 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:05:25.932 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:05:26.044 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:05:26.120 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:05:26.161 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (f0306d94e7d9e7f7c835701c6ba70166)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:05:26.164 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 11:05:26.164 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:05:26.299 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (955766f532e64a28fa7012af2c3481de)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:05:26.349 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 11:05:26.349 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 11:05:26.366 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:05:26.649 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 11:05:26.649 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:05:26.649 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:05:26.828 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 11:05:26.828 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:05:26.828 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:05:26.828 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 11:19:46.587 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 11:19:46.587 [main] INFO  executionLogger - Test Suite started
+2025-01-01 11:19:46.587 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 11:19:46.615 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 11:19:46.615 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 11:19:46.636 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 11:19:46.636 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 11:19:46.658 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 11:19:46.658 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 11:19:46.658 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:19:46.658 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:19:49.147 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:19:49.170 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:19:49.384 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:19:49.412 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:19:49.511 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:19:49.534 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:19:52.561 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:19:52.561 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:19:52.655 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //a[text()="+"]]
+2025-01-01 11:19:52.673 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //a[text()="+"]]
+2025-01-01 11:19:56.294 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:19:56.294 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:19:56.423 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:19:56.423 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:19:56.549 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:19:56.549 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:19:56.634 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d2db4ad69455ed7bde6a0e134890c1e4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:19:56.634 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (5c16e611407a5d6e67f60a04ba11a5d7)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:19:56.635 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 11:19:56.635 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:19:56.670 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 11:19:56.670 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 11:19:56.683 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:19:56.798 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 11:19:56.798 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:19:56.798 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:19:56.829 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 11:19:56.829 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:19:56.829 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:19:56.829 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 11:22:02.731 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 11:22:02.731 [main] INFO  executionLogger - Test Suite started
+2025-01-01 11:22:02.731 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 11:22:02.759 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 11:22:02.759 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 11:22:02.781 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 11:22:02.781 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 11:22:02.795 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 11:22:02.795 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 11:22:02.795 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:22:02.795 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:22:05.473 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:22:05.489 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:22:05.665 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:22:05.687 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:22:05.789 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:22:05.813 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:22:08.837 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:22:08.858 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:22:08.944 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //a[text()="+"]]
+2025-01-01 11:22:08.973 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //a[text()="+"]]
+2025-01-01 11:22:12.596 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:22:12.596 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:22:12.766 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:22:12.766 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:22:12.891 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:22:12.891 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:22:12.970 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (43bb6de869fac77177b9c44274f6472f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:22:12.970 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ce79a574cbba45ccf93fcab8a703cf88)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:22:12.970 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 11:22:12.979 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:22:13.023 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 11:22:13.023 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 11:22:13.104 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 11:22:13.104 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:22:13.104 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:22:13.186 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:22:13.368 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 11:22:13.368 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:22:13.368 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:22:13.368 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 11:25:34.217 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 11:25:34.217 [main] INFO  executionLogger - Test Suite started
+2025-01-01 11:25:34.217 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 11:25:34.247 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 11:25:34.247 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 11:25:34.267 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 11:25:34.267 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 11:25:34.285 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 11:25:34.285 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 11:25:34.285 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:25:34.285 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:25:36.704 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:25:36.910 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:25:37.023 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:25:37.229 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:25:37.404 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:25:37.516 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:25:40.079 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:25:40.194 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //a[text()="+"]]
+2025-01-01 11:25:40.563 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:25:40.670 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //a[text()="+"]]
+2025-01-01 11:25:43.822 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:25:43.981 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:25:44.115 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:25:44.246 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1e0e610e99e9786c40ccd2b5df9c9fb0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:25:44.287 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 11:25:44.287 [TestNG-tests-2] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 11:25:44.287 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:25:44.413 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 11:25:44.421 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:25:44.481 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:25:44.579 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 11:25:44.580 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:25:44.583 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:25:44.614 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:25:44.695 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b8bd51a4213a730891afbf75f030a719)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:25:44.695 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 11:25:44.695 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:25:44.839 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 11:25:44.839 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:25:44.839 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:25:44.839 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 11:43:50.282 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 11:43:50.282 [main] INFO  executionLogger - Test Suite started
+2025-01-01 11:43:50.282 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 11:43:50.313 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 11:43:50.313 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 11:43:50.337 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 11:43:50.337 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 11:43:50.350 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 11:43:50.350 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 11:43:50.351 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:43:50.351 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 11:43:53.109 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:43:53.119 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:43:53.297 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:43:53.303 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 11:43:53.412 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:43:53.419 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //button[@type="submit"]]
+2025-01-01 11:43:56.478 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:43:56.478 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 11:43:56.603 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //a[text()="+"]]
+2025-01-01 11:43:56.604 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //a[text()="+"]]
+2025-01-01 11:44:00.211 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:44:00.211 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 11:44:00.333 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:44:00.333 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 11:44:00.453 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:44:00.453 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:44:00.534 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (39df03733d866c107e215bd3ce4321d8)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:44:00.534 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607b5c8e6ffcb53bfb888f45fe8ac9f4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 11:44:00.542 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 11:44:00.542 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:44:00.581 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 11:44:00.581 [TestNG-tests-2] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 11:44:00.690 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 11:44:00.693 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:44:00.695 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:44:00.705 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 11:44:00.719 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 11:44:00.856 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 11:44:00.856 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 11:44:00.856 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 11:44:00.856 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 12:01:23.876 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 12:01:23.876 [main] INFO  executionLogger - Test Suite started
+2025-01-01 12:01:23.876 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 12:01:23.893 [TestNG-tests-1] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 26
+2025-01-01 12:01:23.893 [TestNG-tests-2] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 27
+2025-01-01 12:01:23.919 [TestNG-tests-1] INFO  executionLogger - Executing BeforeClass threadId is 26
+2025-01-01 12:01:23.919 [TestNG-tests-2] INFO  executionLogger - Executing BeforeClass threadId is 27
+2025-01-01 12:01:23.932 [TestNG-tests-2] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 27
+2025-01-01 12:01:23.932 [TestNG-tests-1] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 26
+2025-01-01 12:01:23.932 [TestNG-tests-2] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:01:23.932 [TestNG-tests-1] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:01:26.634 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:01:26.658 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:01:26.850 [TestNG-tests-1] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:01:26.883 [TestNG-tests-2] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:01:26.969 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:01:27.000 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:01:30.015 [TestNG-tests-1] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:01:30.045 [TestNG-tests-2] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:01:30.154 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //a[text()="+"]]
+2025-01-01 12:01:30.185 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //a[text()="+"]]
+2025-01-01 12:01:33.808 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:01:33.808 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:01:33.944 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:01:33.947 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:01:34.074 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:01:34.074 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:01:34.166 [TestNG-tests-1] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (336583402050d2e2a85b1b78855ace33)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:01:34.166 [TestNG-tests-2] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ca49607defc530327c09ba10ecdb2250)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:01:34.169 [TestNG-tests-1] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 12:01:34.169 [TestNG-tests-1] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:01:34.214 [TestNG-tests-2] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 12:01:34.217 [TestNG-tests-2] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 12:01:34.304 [TestNG-tests-1] INFO  executionLogger - WebDriver closed
+2025-01-01 12:01:34.304 [TestNG-tests-1] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:01:34.304 [TestNG-tests-1] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:01:34.324 [TestNG-tests-2] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 12:01:34.338 [TestNG-tests-2] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:01:34.456 [TestNG-tests-2] INFO  executionLogger - WebDriver closed
+2025-01-01 12:01:34.456 [TestNG-tests-2] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:01:34.456 [TestNG-tests-2] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:01:34.456 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 12:11:11.304 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 12:11:11.304 [main] INFO  executionLogger - Test Suite started
+2025-01-01 12:11:11.304 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 12:11:11.304 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests  threadId is 1
+2025-01-01 12:11:11.319 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 12:11:11.319 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests threadId is 1
+2025-01-01 12:11:11.319 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:11:13.709 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:11:13.876 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:11:13.975 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:11:17.033 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:11:17.135 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //a[text()="+"]]
+2025-01-01 12:11:20.742 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:11:20.875 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:11:20.995 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:11:21.091 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d4f02551cc9ba447b502448944f57d00)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:11:21.091 [main] INFO  executionLogger - Test Passed: verify_addToCartPage
+2025-01-01 12:11:21.091 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:11:21.201 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:11:21.201 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:11:21.204 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:11:21.204 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 12:11:21.209 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 12:11:21.209 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:11:21.209 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:11:23.243 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:11:23.424 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:11:23.549 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:11:26.607 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:11:26.735 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //a[text()="+"]]
+2025-01-01 12:11:30.375 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:11:30.525 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:11:30.659 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:11:30.742 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e3801c9100e7cb93102a56f9efa5a7c3)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:11:30.765 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 12:11:30.765 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 12:11:30.872 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 12:11:30.872 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:11:30.990 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:11:30.990 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:11:30.990 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:11:30.990 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 12:38:59.131 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 12:38:59.131 [main] INFO  executionLogger - Test Suite started
+2025-01-01 12:38:59.131 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 12:38:59.149 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 12:38:59.163 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 12:38:59.163 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:38:59.163 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:39:05.165 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:05.501 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:05.828 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:39:08.944 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:39:09.293 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //a[text()="+"]]
+2025-01-01 12:39:13.134 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:39:13.346 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:39:13.636 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:13.868 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c18976dd53e65f766a576712d6030339)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:13.917 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:39:14.154 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:39:14.154 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:39:14.154 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:39:16.368 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:16.783 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:17.150 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:39:20.232 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:39:20.338 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //a[text()="+"]]
+2025-01-01 12:39:23.984 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:39:24.164 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:39:24.316 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:24.415 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (46cc6dd94c500ecaeff506778d499336)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:24.444 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:39:24.564 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:39:24.566 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:39:24.566 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:39:26.591 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:26.819 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:26.964 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:39:30.057 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:39:30.317 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //a[text()="+"]]
+2025-01-01 12:39:34.082 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:39:34.340 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:39:34.589 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:34.873 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3b9abd541a0caf054b68f3cfcd41959c)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:34.913 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:39:35.073 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:39:35.074 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:39:35.074 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:39:37.073 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:37.398 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:39:37.536 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:39:40.638 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:39:40.863 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //a[text()="+"]]
+2025-01-01 12:39:44.505 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:39:44.838 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:39:45.134 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:45.240 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8bc9b9be41737dc116342c3e9679ae9f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:39:45.273 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 12:39:45.273 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 12:39:45.415 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 12:39:45.423 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:39:45.571 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:39:45.571 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:39:45.575 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:39:45.575 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 12:41:36.820 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 12:41:36.820 [main] INFO  executionLogger - Test Suite started
+2025-01-01 12:41:36.820 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 12:41:36.836 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 12:41:36.851 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 12:41:36.851 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:41:36.851 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:41:40.555 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:41:40.904 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:41:41.221 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:41:44.331 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:41:44.638 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //a[text()="+"]]
+2025-01-01 12:41:48.428 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:41:48.762 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:41:48.960 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:41:49.112 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a73a4c9f6c28fe609ffb9cf386df183f)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:41:49.153 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:41:49.953 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:41:49.953 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:41:49.953 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:41:52.357 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:41:52.760 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:41:53.143 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:41:56.236 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:41:56.527 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //a[text()="+"]]
+2025-01-01 12:42:00.304 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:42:00.654 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:42:00.936 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:01.211 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (9b004a20a0aed2e55c8bbe5873d25cc0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:01.253 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:42:02.298 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:42:02.298 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:42:02.298 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:42:04.525 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:42:04.951 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:42:05.334 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:42:08.418 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:42:08.541 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //a[text()="+"]]
+2025-01-01 12:42:12.208 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:42:12.386 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:42:12.683 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:12.933 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e7273a741d201d89a84dea7757f1f37b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:12.983 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:42:13.144 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:42:13.144 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 12:42:13.144 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 12:42:15.291 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:42:15.707 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 12:42:16.073 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //button[@type="submit"]]
+2025-01-01 12:42:19.166 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 12:42:19.423 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //a[text()="+"]]
+2025-01-01 12:42:23.265 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 12:42:23.598 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 12:42:23.888 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:24.182 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (691f2e3ed7bae2a4d3c6215da456edfa)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 12:42:24.232 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 12:42:24.232 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 12:42:24.385 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 12:42:24.393 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 12:42:25.383 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 12:42:25.383 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 12:42:25.383 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 12:42:25.395 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 16:36:00.900 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 16:36:00.900 [main] INFO  executionLogger - Test Suite started
+2025-01-01 16:36:00.900 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 16:36:00.900 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 16:36:00.916 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 16:36:00.932 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:36:00.932 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:36:05.074 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:05.317 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:05.485 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:36:08.592 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:36:08.933 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //a[text()="+"]]
+2025-01-01 16:36:12.694 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:36:13.108 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:36:13.466 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:13.666 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (37fe19bd2aee6989eb0cdadc16f14828)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:13.758 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:36:14.610 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:36:14.610 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:36:14.610 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:36:17.533 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:17.997 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:18.364 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:36:21.449 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:36:21.815 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //a[text()="+"]]
+2025-01-01 16:36:25.707 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:36:26.015 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:36:26.247 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:26.399 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (184419d5edb97422316be6b89d69560b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:26.437 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:36:27.319 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:36:27.319 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:36:27.319 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:36:29.823 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:30.256 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:30.624 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:36:33.685 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:36:33.875 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //a[text()="+"]]
+2025-01-01 16:36:37.589 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:36:38.029 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:36:38.460 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:38.755 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (66106ea39f30967112f4f37ab2e84b7e)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:38.805 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:36:39.766 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:36:39.766 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:36:39.766 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:36:42.360 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:42.778 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:36:43.220 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:36:46.321 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:36:46.586 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //a[text()="+"]]
+2025-01-01 16:36:50.390 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:36:50.644 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:36:50.887 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:51.049 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bb7831f2b4b1a4506f5effaec36cd372)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:36:51.083 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 16:36:51.083 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 16:36:51.238 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 16:36:51.253 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:36:52.172 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:36:52.172 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 16:36:52.172 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 16:36:52.188 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 16:51:34.392 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 16:51:34.393 [main] INFO  executionLogger - Test Suite started
+2025-01-01 16:51:34.393 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 16:51:34.413 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 16:51:34.432 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 16:51:34.442 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:51:34.443 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:51:37.776 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:51:38.106 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:51:38.251 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:51:41.367 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:51:41.888 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //a[text()="+"]]
+2025-01-01 16:51:45.718 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:51:46.192 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:51:46.576 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:51:46.984 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (1ea295ec54097f93b39b4c3664b69b64)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:51:47.186 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:51:47.618 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:51:47.626 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:51:47.626 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:51:50.573 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:51:51.031 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:51:51.372 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:51:54.465 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:51:54.839 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //a[text()="+"]]
+2025-01-01 16:51:58.665 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:51:59.118 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:51:59.405 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:51:59.685 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (80d7602d85d2c816d2cff02fd0ae3d21)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:51:59.783 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:52:00.234 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:52:00.241 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:52:00.241 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:52:03.238 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:52:03.616 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:52:03.964 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:52:07.089 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:52:07.363 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //a[text()="+"]]
+2025-01-01 16:52:11.080 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:52:11.530 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:52:11.870 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:52:12.070 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c8fdbe914fe120039d4e06df19374fc2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:52:12.113 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:52:13.026 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:52:13.026 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:52:13.026 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:52:15.724 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:52:16.176 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:52:16.630 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:52:19.725 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:52:20.095 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //a[text()="+"]]
+2025-01-01 16:52:23.927 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:52:24.529 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:52:24.791 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:52:25.073 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (41a12ccad0085d3a10ed10996b17fbbf)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:52:25.127 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 16:52:25.130 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 16:52:25.321 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 16:52:25.342 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:52:25.593 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:52:25.593 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 16:52:25.593 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 16:52:25.609 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 16:57:32.379 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 16:57:32.380 [main] INFO  executionLogger - Test Suite started
+2025-01-01 16:57:32.380 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 16:57:32.397 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 16:57:32.416 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 16:57:32.428 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:57:32.428 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:57:35.670 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:57:35.997 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:57:36.149 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:57:39.276 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:57:39.618 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //a[text()="+"]]
+2025-01-01 16:57:43.504 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:57:43.738 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:57:43.928 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:57:44.106 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (a1dbac108af40341967675e5e5f43033)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:57:44.161 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:57:45.209 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:57:45.212 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:57:45.213 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:57:47.460 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:57:47.741 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:57:48.052 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:57:51.144 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:57:51.444 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //a[text()="+"]]
+2025-01-01 16:57:55.227 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:57:55.602 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:57:55.935 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:57:56.235 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (49fcc0766ef919785cd92e63518237f2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:57:56.279 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 16:57:56.279 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 16:57:56.423 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 16:57:56.438 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:57:57.425 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:57:57.425 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 16:57:57.425 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 16:57:57.441 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 16:58:54.214 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 16:58:54.215 [main] INFO  executionLogger - Test Suite started
+2025-01-01 16:58:54.215 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 16:58:54.229 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 16:58:54.246 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 16:58:54.256 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:58:54.256 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:58:57.592 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:58:57.904 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:58:58.203 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:59:01.343 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:59:01.790 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //a[text()="+"]]
+2025-01-01 16:59:05.675 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:59:06.017 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:59:06.235 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:06.406 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (956ee1a8e8753e38977b9b4c96c71196)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:06.454 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:59:07.236 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:59:07.236 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:59:07.236 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:59:09.867 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:59:10.324 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:59:10.739 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:59:13.891 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:59:14.373 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //a[text()="+"]]
+2025-01-01 16:59:18.266 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:59:18.572 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:59:18.793 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:18.957 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (40de2ba2b683c6b01d5567c62fa758a2)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:19.003 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 16:59:19.003 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 16:59:19.199 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 16:59:19.218 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:59:19.670 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:59:19.670 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 16:59:19.670 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 16:59:19.687 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 16:59:35.986 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 16:59:35.987 [main] INFO  executionLogger - Test Suite started
+2025-01-01 16:59:35.987 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 16:59:36.002 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 16:59:36.018 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 16:59:36.026 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 16:59:36.026 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 16:59:38.891 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:59:39.172 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 16:59:39.443 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //button[@type="submit"]]
+2025-01-01 16:59:42.549 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 16:59:42.735 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //a[text()="+"]]
+2025-01-01 16:59:46.434 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 16:59:46.740 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 16:59:46.892 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:47.025 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (19d36177f1b86da37a251fb4c21fdd67)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 16:59:47.026 [main] INFO  executionLogger - Test Passed: verify_placeOrderPage
+2025-01-01 16:59:47.040 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 16:59:47.184 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 16:59:47.187 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 16:59:47.189 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 16:59:47.195 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:02:13.401 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:02:13.417 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:02:13.417 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:02:13.417 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:02:13.433 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:02:13.433 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:02:13.433 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:02:16.559 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:02:16.741 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:02:16.860 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:02:19.892 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:02:20.023 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //a[text()="+"]]
+2025-01-01 22:02:23.652 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:02:23.786 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:02:23.918 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:02:24.026 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (27a84521c63856c1bbd0a5040ed56ea4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:02:24.026 [main] INFO  executionLogger - Test Passed: verify_placeOrderPage
+2025-01-01 22:02:24.034 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:02:24.145 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:02:24.145 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:02:24.145 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:02:24.145 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:05:54.863 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:05:54.863 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:05:54.863 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:05:54.863 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:05:54.883 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:05:54.894 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:05:54.894 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:05:57.432 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:05:57.610 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:05:57.740 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:06:00.789 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:06:00.916 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //a[text()="+"]]
+2025-01-01 22:06:04.532 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:06:04.661 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:06:04.785 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:06:04.882 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (82be770fd922b6c1cd81e4d4f53c82ac)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:06:04.882 [main] INFO  executionLogger - Test Passed: verify_placeOrderPage
+2025-01-01 22:06:04.890 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:06:05.018 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:06:05.018 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:06:05.018 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:06:05.018 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:09:32.282 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:09:32.282 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:09:32.282 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:09:32.282 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:09:32.298 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:09:32.298 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:09:32.298 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:09:34.567 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:09:34.732 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:09:34.849 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:09:37.890 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:09:37.989 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //a[text()="+"]]
+2025-01-01 22:09:41.608 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:09:41.928 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:09:42.215 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:09:42.519 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (bdbb295b88b3536b89e9a93499a1f202)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:09:42.523 [main] INFO  executionLogger - Test Passed: verify_placeOrderPage
+2025-01-01 22:09:42.549 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:09:42.713 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:09:42.716 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:09:42.716 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:09:42.729 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:16:50.559 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:16:50.559 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:16:50.559 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:16:50.567 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:16:50.567 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:16:50.582 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:16:50.582 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:16:52.976 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:16:53.133 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:16:53.242 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:16:56.275 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:16:56.394 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //a[text()="+"]]
+2025-01-01 22:17:00.042 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:17:00.184 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:17:00.301 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:17:00.389 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b5057fa983266af687eda857978d34c8)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:17:00.430 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:17:00.567 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:17:00.567 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:17:00.567 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:17:02.589 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:17:02.765 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:17:02.891 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:17:05.956 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:17:06.081 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //a[text()="+"]]
+2025-01-01 22:17:09.715 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:17:09.965 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:17:10.248 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:17:10.539 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b86c4b3d05fab33c65bd7c83c6895e59)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:17:10.587 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 22:17:10.588 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 22:17:10.730 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 22:17:10.730 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 22:17:10.945 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:17:11.134 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:17:11.134 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:17:11.134 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:17:11.153 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:28:51.301 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:28:51.301 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:28:51.301 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:28:51.317 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:28:51.332 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:28:51.332 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:28:51.332 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:28:53.769 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:28:53.969 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:28:54.090 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:28:57.127 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:28:57.249 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //a[text()="+"]]
+2025-01-01 22:29:00.893 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:29:01.015 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:29:01.144 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:29:01.245 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3708d1265acd95cb6a539c2306fbced0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:29:01.276 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:29:01.403 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:29:01.403 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:29:01.403 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:29:03.476 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:29:03.631 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:29:03.750 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:29:06.800 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:29:06.904 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //a[text()="+"]]
+2025-01-01 22:29:10.519 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:29:10.669 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:29:10.812 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:29:10.925 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (4b3b7185b9f4876477fac0d83a88ea15)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:29:10.958 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 22:29:10.958 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 22:29:11.070 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 22:29:11.070 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 22:29:11.208 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:29:11.310 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:29:11.310 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:29:11.310 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:29:11.326 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:35:41.685 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:35:41.685 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:35:41.685 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:35:41.700 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:35:41.716 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:35:41.716 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:35:41.716 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:35:44.076 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:35:44.252 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:35:44.388 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:35:47.440 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:35:47.555 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //a[text()="+"]]
+2025-01-01 22:35:51.184 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:35:51.297 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:35:51.426 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:35:51.531 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (d60899bbbd845f43a93984323486c821)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:35:51.566 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:35:51.689 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:35:51.689 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:35:51.689 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:35:53.763 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:35:53.930 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:35:54.042 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:35:57.074 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:35:57.178 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //a[text()="+"]]
+2025-01-01 22:36:00.790 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:36:00.942 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:36:01.065 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:36:01.156 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b2f229d7f994b0d75c5b96b36d1ebd51)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:36:01.179 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 22:36:01.179 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 22:36:01.287 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 22:36:01.287 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 22:36:01.406 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:36:01.554 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:36:01.554 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:36:01.554 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:36:01.554 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:46:11.313 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:46:11.314 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:46:11.314 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:46:11.341 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:46:11.354 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:46:11.362 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:46:11.362 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:46:13.768 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:46:13.950 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:46:14.073 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:46:17.124 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:46:17.231 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //a[text()="+"]]
+2025-01-01 22:46:20.842 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:46:20.961 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:46:21.076 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:46:21.182 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (ad2a796c545c172508d74a06d1bdd8da)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:46:21.221 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:46:21.349 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:46:21.351 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:46:21.352 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:46:23.254 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:46:23.415 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:46:23.527 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:46:26.571 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:46:26.665 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //a[text()="+"]]
+2025-01-01 22:46:30.267 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:46:30.535 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:46:30.715 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:46:30.876 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (209796ed8a8540289784b58c3118371b)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:46:30.919 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 22:46:30.919 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 22:46:31.077 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 22:46:31.087 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 22:46:31.242 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:46:31.401 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:46:31.401 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:46:31.401 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:46:31.417 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 22:55:24.247 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 22:55:24.248 [main] INFO  executionLogger - Test Suite started
+2025-01-01 22:55:24.248 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 22:55:24.259 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 22:55:24.269 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 22:55:24.278 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:55:24.278 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:55:27.755 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:55:27.919 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:55:28.024 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:55:31.116 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:55:31.269 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //a[text()="+"]]
+2025-01-01 22:55:34.915 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:55:35.249 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:55:35.538 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:55:35.735 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (2fa1d23ffbd01ffa71578d30fa8840cc)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:55:35.813 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:55:36.876 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:55:36.876 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 22:55:36.876 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 22:55:38.914 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:55:39.098 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 22:55:39.214 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //button[@type="submit"]]
+2025-01-01 22:55:42.259 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 22:55:42.358 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //a[text()="+"]]
+2025-01-01 22:55:46.001 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 22:55:46.136 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 22:55:46.262 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:55:46.350 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (8f6d407d31a8234ccb2322ca1a3e09e4)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 22:55:46.371 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 22:55:46.371 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 22:55:46.493 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 22:55:46.493 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 22:55:46.606 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 22:55:46.724 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 22:55:46.728 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 22:55:46.731 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 22:55:46.738 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 23:02:35.741 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 23:02:35.742 [main] INFO  executionLogger - Test Suite started
+2025-01-01 23:02:35.742 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 23:02:35.753 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 23:02:35.763 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 23:02:35.770 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:02:35.770 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:02:38.786 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:02:38.953 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:02:39.078 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:02:42.132 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:02:42.233 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //a[text()="+"]]
+2025-01-01 23:02:45.870 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:02:46.228 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:02:46.536 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:02:46.822 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e292cbed031fe81ddf6749633bf55faa)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:02:46.927 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:02:47.084 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:02:47.084 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:02:47.084 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:02:49.041 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:02:49.246 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:02:49.386 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:02:52.433 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:02:52.545 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //a[text()="+"]]
+2025-01-01 23:02:56.202 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:02:56.403 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:02:56.565 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:02:56.717 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (c7806a7f19a3d747e14c66ff9e0c8112)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:02:56.768 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 23:02:56.768 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage
+2025-01-01 23:02:56.911 [main] INFO  executionLogger - Screenshot captured for test: verify_placeOrderPage
+2025-01-01 23:02:56.911 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:02:57.047 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:02:57.204 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:02:57.204 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 23:02:57.204 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 23:02:57.204 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 23:04:57.263 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 23:04:57.264 [main] INFO  executionLogger - Test Suite started
+2025-01-01 23:04:57.264 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 23:04:57.275 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 23:04:57.286 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 23:04:57.294 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:04:57.294 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:04:59.718 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:04:59.914 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:05:00.041 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:05:03.075 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:05:03.203 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //a[text()="+"]]
+2025-01-01 23:05:06.815 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:05:07.115 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:05:07.349 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:05:07.534 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (6980f4ca778308e27c914e4afb0a79b0)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:05:07.629 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:05:07.809 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:05:07.809 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:05:07.809 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:05:09.790 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:05:09.972 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:05:10.106 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:05:13.175 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:05:13.293 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //a[text()="+"]]
+2025-01-01 23:05:16.931 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:05:17.239 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:05:17.514 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:05:17.811 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (3572a005ef04016eee53eb3a37fe01fb)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:05:17.860 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 23:05:17.861 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:05:17.995 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:05:18.180 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:05:18.180 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 23:05:18.180 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 23:05:18.195 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 23:24:51.884 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 23:24:51.884 [main] INFO  executionLogger - Test Suite started
+2025-01-01 23:24:51.885 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 23:24:51.895 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 23:24:51.906 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 23:24:51.914 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:24:51.914 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:24:54.304 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:24:54.471 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:24:54.578 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:24:57.620 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:24:57.719 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //a[text()="+"]]
+2025-01-01 23:25:01.353 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:25:01.648 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:25:01.902 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:25:02.131 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (86139e6596ca74465cf291f0a507d278)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:25:02.221 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:25:02.402 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:25:02.405 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:25:02.406 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:25:04.418 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:25:04.607 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:25:04.732 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:25:07.810 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:25:07.931 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //a[text()="+"]]
+2025-01-01 23:25:11.590 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:25:11.836 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:25:12.137 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:25:12.436 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (05544ed8893a65e43779a2f95f2e91ad)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:25:12.479 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 23:25:12.480 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:25:12.641 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:25:12.804 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:25:12.805 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 23:25:12.805 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 23:25:12.820 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 23:51:50.624 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 23:51:50.625 [main] INFO  executionLogger - Test Suite started
+2025-01-01 23:51:50.625 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 23:51:50.635 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 23:51:50.646 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 23:51:50.652 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:51:50.652 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:51:53.100 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:51:53.272 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:51:53.394 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:51:56.431 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:51:56.538 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //a[text()="+"]]
+2025-01-01 23:52:00.160 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:52:00.280 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:52:00.395 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:52:00.496 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (89641412680a5047c64089c4c74eb942)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:52:00.535 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:52:00.669 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:52:00.671 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:52:00.672 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:52:02.560 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:52:02.737 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:52:02.849 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:52:05.906 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:52:05.999 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //a[text()="+"]]
+2025-01-01 23:52:09.617 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:52:09.958 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:52:10.249 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:52:10.547 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (b3f15a9a1124549bba9e17f3fc19087c)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:52:10.604 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 23:52:10.605 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:52:10.723 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:52:10.930 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:52:11.103 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:52:11.103 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 23:52:11.103 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 23:52:11.103 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-01 23:58:02.076 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--Web Tests 2
+2025-01-01 23:58:02.077 [main] INFO  executionLogger - Test Suite started
+2025-01-01 23:58:02.077 [main] INFO  executionLogger - implicitWait------10
+2025-01-01 23:58:02.087 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--Web Tests 2  threadId is 1
+2025-01-01 23:58:02.098 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-01 23:58:02.105 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:58:02.105 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:58:04.476 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:58:04.645 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:58:04.757 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:58:07.795 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:58:07.902 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //a[text()="+"]]
+2025-01-01 23:58:11.562 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:58:11.684 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:58:11.806 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:58:11.909 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (607fa84562704651e5476a5e96470e13)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:58:11.958 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:58:12.079 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:58:12.082 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--Web Tests 2 threadId is 1
+2025-01-01 23:58:12.082 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-01 23:58:13.894 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:58:14.057 [main] DEBUG executionLogger - Entered text in element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //input[contains(@class,"search")]]
+2025-01-01 23:58:14.184 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //button[@type="submit"]]
+2025-01-01 23:58:17.226 [main] DEBUG executionLogger - Got text from element: Pumpkin - 1 Kg
+2025-01-01 23:58:17.318 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //a[text()="+"]]
+2025-01-01 23:58:20.953 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //button[text()="ADD TO CART"]]
+2025-01-01 23:58:21.253 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //img[@alt="Cart"]]
+2025-01-01 23:58:21.559 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:58:21.853 [main] DEBUG executionLogger - Clicked element: [[ChromeDriver: chrome on windows (e90d7572050fc59a6f0e690afa4b3a77)] -> xpath: //button[text()='PROCEED TO CHECKOUT']/..]
+2025-01-01 23:58:21.904 [main] INFO  executionLogger - Test Failed: verify_placeOrderPage
+2025-01-01 23:58:21.905 [main] INFO  executionLogger - Screenshot to capture for test: verify_placeOrderPage for report
+2025-01-01 23:58:22.034 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-01 23:58:22.205 [main] INFO  executionLogger - WebDriver closed
+2025-01-01 23:58:22.205 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-01 23:58:22.205 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-01 23:58:22.205 [main] INFO  executionLogger - Executing AfterSuite 

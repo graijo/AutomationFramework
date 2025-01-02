@@ -126,7 +126,6 @@
             <version>${selenium.version}</version>
         </dependency>
 <!--                devtools 2dependency-->
-
 <!--        <dependency>-->
 <!--            <groupId>org.seleniumhq.selenium</groupId>-->
 <!--            <artifactId>selenium-devtools-v131</artifactId>-->
@@ -137,19 +136,25 @@
 <!--            <artifactId>selenium-devtools-v86</artifactId>-->
 <!--            <version>4.16.1</version>-->
 <!--        </dependency>-->
+        <!--Report -->
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-testng</artifactId>
+            <version>2.24.0</version>
+        </dependency>
+<!--        For annotations and attachments-->
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-java-commons</artifactId>
+            <version>2.24.0</version>
+        </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>org.seleniumhq.selenium</groupId>-->
-<!--            <artifactId>selenium-java</artifactId>-->
-<!--            <version>4.16.1</version>-->
-<!--            <exclusions>-->
-<!--                <exclusion>-->
-<!--                    <groupId>org.seleniumhq.selenium</groupId>-->
-<!--                    <artifactId>selenium-devtools-v86</artifactId>-->
-<!--                </exclusion>-->
-<!--            </exclusions>-->
-<!--        </dependency>-->
-
+<!--        AspectJ Dependencies-->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.9.9.1</version>
+        </dependency>
 
     </dependencies>
 

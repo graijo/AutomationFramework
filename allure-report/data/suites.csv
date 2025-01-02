@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Validates Successfully checked product count and click on place order.Verify product count and click on place order.","8773","verify_placeOrderPage","Test Automation Suite","Wed Jan 01 22:55:37 IST 2025","broken","Wed Jan 01 22:55:46 IST 2025","org.mine.tests.PlaceOrderTest","Web Tests 2","org.mine.tests.PlaceOrderTest","verify_placeOrderPage"

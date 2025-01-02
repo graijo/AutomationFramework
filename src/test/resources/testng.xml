@@ -4,6 +4,7 @@
 <suite name="Test Automation Suite" verbose="9" parallel="false">
     <listeners>
         <listener class-name="org.mine.listeners.TestNGListener"/>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
 
 <!--    <test name="Web Tests">-->
