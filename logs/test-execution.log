@@ -743,3 +743,207 @@ Session ID: 4c7cc1bfd33335aa08d2dbd895614ba9
 2025-01-02 12:56:04.057 [main] INFO  executionLogger - Executing AfterClass 
 2025-01-02 12:56:04.067 [main] INFO  executionLogger - Executing AfterTest 
 2025-01-02 12:56:04.083 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:41:52.236 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:41:52.237 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:41:52.532 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:41:52.542 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:41:52.558 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:41:52.566 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:41:52.566 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:41:54.347 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:41:54.457 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:41:54.460 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:41:54.462 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:41:54.468 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:46:14.226 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:46:14.227 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:46:14.229 [main] INFO  executionLogger - DB_USER is 
+2025-01-02 19:46:14.229 [main] INFO  executionLogger - DB_PASSWORD is 
+2025-01-02 19:46:14.470 [main] INFO  executionLogger - SQLException is java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+2025-01-02 19:46:14.471 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:46:14.481 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:46:14.496 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:46:14.502 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:46:14.502 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:46:15.839 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:46:15.913 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:46:15.916 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:46:15.917 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:46:15.922 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:48:30.586 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:48:30.586 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:48:30.588 [main] INFO  executionLogger - DB_USER is admin01
+2025-01-02 19:48:30.588 [main] INFO  executionLogger - DB_PASSWORD is admin00
+2025-01-02 19:48:30.812 [main] INFO  executionLogger - SQLException is java.sql.SQLException: Access denied for user 'admin01'@'localhost' (using password: YES)
+2025-01-02 19:48:30.812 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:48:30.819 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:48:30.837 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:48:30.844 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:48:30.844 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:48:32.120 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:48:32.221 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:48:32.223 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:48:32.225 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:48:32.228 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:50:37.960 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:50:37.960 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:50:37.963 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 19:50:37.963 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 19:50:38.191 [main] INFO  executionLogger - SQLException is java.sql.SQLSyntaxErrorException: Unknown database 'testdb'
+2025-01-02 19:50:38.191 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:50:38.198 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:50:38.212 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:50:38.220 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:50:38.220 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:50:39.526 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:50:39.635 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:50:39.637 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:50:39.640 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:50:39.644 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:51:43.322 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:51:43.323 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:51:43.324 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 19:51:43.325 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 19:51:43.556 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:51:43.566 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:51:43.576 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:51:43.582 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:51:43.583 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:51:44.824 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:51:44.925 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:51:44.928 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:51:44.930 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:51:44.935 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:53:40.357 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:53:40.357 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:53:40.359 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 19:53:40.359 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 19:53:40.600 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:53:40.610 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:53:40.627 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:53:40.634 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:53:40.634 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:53:41.935 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 19:53:41.939 [main] INFO  executionLogger - users.get(0) -0th row User{id=1, email='john.doe@example.com', firstname='null', lastName='null', avatarUrl='null'}
+2025-01-02 19:53:41.940 [main] INFO  executionLogger - users.get(0) -0th rows email id john.doe@example.com
+2025-01-02 19:53:41.950 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:53:42.033 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:53:42.035 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:53:42.037 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:53:42.042 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 19:55:24.636 [main] INFO  executionLogger - Test Suite started
+2025-01-02 19:55:24.637 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 19:55:24.638 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 19:55:24.638 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 19:55:24.871 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 19:55:24.885 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 19:55:24.899 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 19:55:24.906 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 19:55:24.906 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 19:55:26.152 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 19:55:26.156 [main] INFO  executionLogger - users.get(0) -0th row User{id=1, email='john.doe@example.com', firstname='null', lastName='null', avatarUrl='null'}
+2025-01-02 19:55:26.156 [main] INFO  executionLogger - users.get(0) -0th rows email id john.doe@example.com
+2025-01-02 19:55:26.157 [main] INFO  executionLogger - users.get(0) -0th rows first name null
+2025-01-02 19:55:26.167 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 19:55:26.264 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 19:55:26.267 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 19:55:26.268 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 19:55:26.272 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 20:03:03.513 [main] INFO  executionLogger - Test Suite started
+2025-01-02 20:03:03.513 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 20:03:03.515 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 20:03:03.515 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 20:03:03.746 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 20:03:03.758 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 20:03:03.770 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 20:03:03.777 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 20:03:03.777 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 20:03:05.159 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 20:03:05.162 [main] INFO  executionLogger - users.get(0) -0th row User{id=1, email='john.doe@example.com', firstname='null', lastName='null', avatarUrl='null'}
+2025-01-02 20:03:05.163 [main] INFO  executionLogger - users.get(0) -0th rows email id john.doe@example.com
+2025-01-02 20:03:05.163 [main] INFO  executionLogger - users.get(0) -0th rows first name null
+2025-01-02 20:03:05.174 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 20:03:05.254 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 20:03:05.256 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 20:03:05.258 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 20:03:05.262 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 20:09:07.583 [main] INFO  executionLogger - Test Suite started
+2025-01-02 20:09:07.583 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 20:09:07.585 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 20:09:07.585 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 20:09:07.823 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 20:09:07.830 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 20:09:07.847 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 20:09:07.854 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 20:09:07.855 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 20:09:09.138 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 20:09:09.141 [main] INFO  executionLogger - users.get(0) -0th row User{id=1, email='john.doe@example.com', firstname='John', lastName='Doe', avatarUrl='http://example.com/avatar/johndoe.jpg'}
+2025-01-02 20:09:09.141 [main] INFO  executionLogger - users.get(0) -0th rows email id john.doe@example.com
+2025-01-02 20:09:09.141 [main] INFO  executionLogger - users.get(0) -0th rows first name John
+2025-01-02 20:09:09.150 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 20:09:09.255 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 20:09:09.258 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 20:09:09.261 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 20:09:09.266 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 20:09:24.056 [main] INFO  executionLogger - Test Suite started
+2025-01-02 20:09:24.056 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 20:09:24.058 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 20:09:24.058 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 20:09:24.295 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 20:09:24.305 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 20:09:24.316 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 20:09:24.322 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 20:09:24.322 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 20:09:25.568 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 20:09:25.572 [main] INFO  executionLogger - users.get(0) -0th row =User{id=1, email='john.doe@example.com', firstname='John', lastName='Doe', avatarUrl='http://example.com/avatar/johndoe.jpg'}
+2025-01-02 20:09:25.572 [main] INFO  executionLogger - users.get(0) -0th rows email id =john.doe@example.com
+2025-01-02 20:09:25.572 [main] INFO  executionLogger - users.get(0) -0th rows first name =John
+2025-01-02 20:09:25.583 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 20:09:25.683 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 20:09:25.685 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 20:09:25.686 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 20:09:25.691 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-02 20:11:58.567 [main] INFO  executionLogger - Test Suite started
+2025-01-02 20:11:58.567 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-02 20:11:58.569 [main] INFO  executionLogger - DB_USER is root
+2025-01-02 20:11:58.569 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-02 20:11:58.806 [main] INFO  executionLogger - implicitWait------10
+2025-01-02 20:11:58.821 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-02 20:11:58.835 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-02 20:11:58.842 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-02 20:11:58.842 [main] INFO  executionLogger - Setting up WebDriver for browser: chrome
+2025-01-02 20:12:00.180 [main] INFO  executionLogger - users.isEmpty() false
+2025-01-02 20:12:00.184 [main] INFO  executionLogger - users.get(0) -0th row =User{id=1, email='john.doe@example.com', firstname='John', lastName='Doe', avatarUrl='http://example.com/avatar/johndoe.jpg'}
+2025-01-02 20:12:00.184 [main] INFO  executionLogger - users.get(0) -0th rows email id =john.doe@example.com
+2025-01-02 20:12:00.185 [main] INFO  executionLogger - users.get(0) -0th rows first name =John
+2025-01-02 20:12:00.185 [main] INFO  executionLogger - table =
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - 1
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - john.doe@example.com
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - John
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - Doe
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - http://example.com/avatar/johndoe.jpg
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - 2
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - john333333.doe@example.com
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - Jo
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - Doe33
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - http://example33333.com/avatar/johndoe.jpg
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - 3
+2025-01-02 20:12:00.186 [main] INFO  executionLogger - john5555.doe@example.com
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - John5555
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - Do555e
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - http://exam55555ple.com/avatar/johndoe.jpg
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - 4
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - john33663333.doe@example.com
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - Jo666
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - D666oe33
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - http://example3366333.com/avatar/johndoe.jpg
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - 5
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - john555665.doe@example.com
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - John566555
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - Do55665e
+2025-01-02 20:12:00.187 [main] INFO  executionLogger - http://exam5665555ple.com/avatar/johndoe.jpg
+2025-01-02 20:12:00.196 [main] INFO  executionLogger - Executing AfterMethod 
+2025-01-02 20:12:00.279 [main] INFO  executionLogger - WebDriver closed
+2025-01-02 20:12:00.281 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-02 20:12:00.282 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-02 20:12:00.289 [main] INFO  executionLogger - Executing AfterSuite 

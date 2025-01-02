@@ -155,6 +155,20 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.9.9.1</version>
         </dependency>
+<!--        MySQL Dependencies-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.32</version> <!-- Use the latest version -->
+        </dependency>
+
+<!--     Spring JDBC Dependency-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>6.1.14</version> <!-- Use the latest version available -->
+        </dependency>
+
 
     </dependencies>
 
