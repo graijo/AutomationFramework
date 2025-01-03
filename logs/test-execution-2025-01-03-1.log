@@ -1,0 +1,379 @@
+2025-01-03 01:20:30.795 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:20:30.800 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:20:30.801 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:20:30.801 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:20:31.108 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:20:31.384 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:20:31.390 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:20:32.857 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:20:32.858 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:20:32.863 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:21:14.726 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:21:14.726 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:21:14.728 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:21:14.728 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:21:14.986 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:21:15.231 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:21:15.239 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:21:16.006 [main] INFO  executionLogger - response.getBody().asString()-- {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-01-03 01:21:16.530 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:21:16.532 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:21:16.537 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:21:45.009 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:21:45.009 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:21:45.011 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:21:45.011 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:21:45.268 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:21:45.513 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:21:45.519 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:21:46.330 [main] INFO  executionLogger - response.getBody().asString()-- {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-01-03 01:21:46.887 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:21:46.888 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:21:46.892 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:32:02.105 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:32:02.105 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:32:02.105 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:32:02.105 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:32:02.356 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:32:02.609 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:32:02.609 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:32:04.197 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:32:04.213 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:32:04.213 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:36:30.308 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:36:30.308 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:36:30.308 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:36:30.308 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:36:30.561 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:36:30.800 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:36:30.800 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:36:32.452 [main] INFO  executionLogger - response.getBody().asString()-- {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-01-03 01:36:32.511 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:36:32.511 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:36:32.519 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:36:45.472 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:36:45.472 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:36:45.488 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:36:45.488 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:36:45.739 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:36:45.994 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:36:46.010 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:36:47.576 [main] INFO  executionLogger - response.getBody().asString()-- {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-01-03 01:36:47.608 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:36:47.624 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:36:47.625 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 01:38:09.279 [main] INFO  executionLogger - Test Suite started
+2025-01-03 01:38:09.279 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 01:38:09.294 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 01:38:09.294 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 01:38:09.530 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 01:38:09.784 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 01:38:09.784 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 01:38:11.377 [main] INFO  executionLogger - response.getBody().asString()-- {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-01-03 01:38:11.425 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 01:38:11.425 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 01:38:11.425 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 15:27:28.318 [main] INFO  executionLogger - Test Suite started
+2025-01-03 15:27:28.319 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 15:27:28.321 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 15:27:28.321 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 15:27:28.624 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 15:27:28.900 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 15:27:28.909 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 15:27:30.201 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 15:27:30.202 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 15:27:30.206 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:26:52.326 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:26:52.327 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:26:52.329 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:26:52.329 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:26:52.654 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:26:52.968 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:26:52.977 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:26:54.769 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:26:54.771 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:26:54.783 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:30:13.254 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:30:13.255 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:30:13.257 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:30:13.257 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:30:13.615 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:30:13.921 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:30:13.930 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:30:15.808 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:30:15.810 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:30:15.816 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:30:36.818 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:30:36.819 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:30:36.822 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:30:36.822 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:30:37.185 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:30:37.516 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:30:37.523 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:30:39.465 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:30:39.466 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:30:39.473 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:31:57.019 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:31:57.020 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:31:57.022 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:31:57.022 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:31:57.372 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:31:57.739 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:31:57.751 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:31:59.732 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:31:59.734 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:31:59.740 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:32:18.053 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:32:18.055 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:32:18.060 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:32:18.061 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:32:18.429 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:32:18.768 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:32:18.779 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:32:20.569 [main] INFO  executionLogger - registerResponse is io.restassured.internal.ValidatableResponseImpl@36c07c75
+2025-01-03 16:32:20.586 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:32:20.588 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:32:20.596 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:32:45.756 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:32:45.757 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:32:45.760 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:32:45.760 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:32:46.090 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:32:46.410 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:32:46.419 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:32:48.442 [main] INFO  executionLogger - registerResponse is io.restassured.internal.ValidatableResponseImpl@29bbc391
+2025-01-03 16:32:48.455 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:32:48.457 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:32:48.468 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:39:40.012 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:39:40.013 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:39:40.015 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:39:40.015 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:39:40.357 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:39:40.672 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:39:40.679 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:39:42.558 [main] INFO  executionLogger - registerResponse is io.restassured.internal.RestAssuredResponseImpl@36c07c75
+2025-01-03 16:39:42.558 [main] INFO  executionLogger - registerResponse statusCode is 400
+2025-01-03 16:39:42.579 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:39:42.580 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:39:42.586 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:40:20.759 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:40:20.760 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:40:20.762 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:40:20.762 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:40:21.123 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:40:21.457 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:40:21.465 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:40:23.281 [main] INFO  executionLogger - registerResponse is io.restassured.internal.RestAssuredResponseImpl@29bbc391
+2025-01-03 16:40:23.281 [main] INFO  executionLogger - registerResponse statusCode is 400
+2025-01-03 16:40:23.281 [main] INFO  executionLogger - registerResponse getBody is io.restassured.internal.RestAssuredResponseImpl@29bbc391
+2025-01-03 16:40:23.304 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:40:23.306 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:40:23.311 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:41:00.190 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:41:00.190 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:41:00.193 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:41:00.193 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:41:00.555 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:41:00.857 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:41:00.864 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:41:02.825 [main] INFO  executionLogger - registerResponse is io.restassured.internal.RestAssuredResponseImpl@5eb87338
+2025-01-03 16:41:02.826 [main] INFO  executionLogger - registerResponse statusCode is 400
+2025-01-03 16:41:02.843 [main] INFO  executionLogger - registerResponse getBody is {"error":"Missing email or username"}
+2025-01-03 16:41:02.856 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:41:02.858 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:41:02.863 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:44:58.036 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:44:58.037 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:44:58.039 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:44:58.039 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:44:58.383 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:44:58.718 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:44:58.729 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:45:00.705 [main] INFO  executionLogger - registerResponse is io.restassured.internal.RestAssuredResponseImpl@77663cd7
+2025-01-03 16:45:00.706 [main] INFO  executionLogger - registerResponse statusCode is 400
+2025-01-03 16:45:00.720 [main] INFO  executionLogger - registerResponse getBody is {"error":"Missing password"}
+2025-01-03 16:45:00.734 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:45:00.736 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:45:00.744 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 16:46:47.079 [main] INFO  executionLogger - Test Suite started
+2025-01-03 16:46:47.079 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 16:46:47.082 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 16:46:47.082 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 16:46:47.413 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 16:46:47.751 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 16:46:47.761 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 16:46:49.673 [main] INFO  executionLogger - registerResponse is io.restassured.internal.RestAssuredResponseImpl@5c70d7f0
+2025-01-03 16:46:49.673 [main] INFO  executionLogger - registerResponse statusCode is 400
+2025-01-03 16:46:49.690 [main] INFO  executionLogger - registerResponse getBody is {"error":"Missing password"}
+2025-01-03 16:46:49.690 [main] INFO  executionLogger - registerResponse getBody is io.restassured.internal.RestAssuredResponseImpl@5c70d7f0
+2025-01-03 16:46:49.690 [main] INFO  executionLogger - registerResponse getBody is RegisterRequest{email='eve.holt@reqres.in', password='pistol'}
+2025-01-03 16:46:49.713 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 16:46:49.715 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 16:46:49.721 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 17:18:32.849 [main] INFO  executionLogger - Test Suite started
+2025-01-03 17:18:32.850 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 17:18:32.854 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 17:18:32.854 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 17:18:33.271 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 17:18:33.629 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 17:18:33.638 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 17:18:36.179 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 17:18:36.181 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 17:18:36.186 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 17:44:47.448 [main] INFO  executionLogger - Test Suite started
+2025-01-03 17:44:47.449 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 17:44:47.450 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 17:44:47.450 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 17:44:47.702 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 17:44:47.939 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 17:44:47.946 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 17:44:49.956 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 17:44:49.958 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 17:44:49.961 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 17:46:58.864 [main] INFO  executionLogger - Test Suite started
+2025-01-03 17:46:58.864 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 17:46:58.864 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 17:46:58.864 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 17:46:59.113 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 17:46:59.380 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 17:46:59.380 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 17:47:01.345 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 17:47:01.349 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 17:47:01.349 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 17:49:30.462 [main] INFO  executionLogger - Test Suite started
+2025-01-03 17:49:30.462 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 17:49:30.462 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 17:49:30.462 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 17:49:30.716 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 17:49:30.952 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 17:49:30.968 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 17:49:32.886 [main] INFO  executionLogger - registerResponse is org.mine.models.api.response.ActivitiesResponse@4348fa35
+2025-01-03 17:49:32.902 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 17:49:32.902 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 17:49:32.917 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 18:03:08.142 [main] INFO  executionLogger - Test Suite started
+2025-01-03 18:03:08.142 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 18:03:08.158 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 18:03:08.158 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 18:03:08.415 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 18:03:08.681 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 18:03:08.697 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 18:03:10.111 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 18:03:10.111 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 18:03:10.111 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 18:07:53.535 [main] INFO  executionLogger - Test Suite started
+2025-01-03 18:07:53.535 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 18:07:53.550 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 18:07:53.550 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 18:07:53.804 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 18:07:54.040 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 18:07:54.055 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 18:07:55.537 [main] INFO  executionLogger - registerResponse is org.mine.models.api.response.ActivitiesResponse@19002b34
+2025-01-03 18:07:55.553 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 18:07:55.553 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 18:07:55.553 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 18:20:00.214 [main] INFO  executionLogger - Test Suite started
+2025-01-03 18:20:00.214 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 18:20:00.214 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 18:20:00.214 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 18:20:00.481 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 18:20:00.735 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 18:20:00.735 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 18:20:02.190 [main] INFO  executionLogger - ActivitiesResponse is ActivitiesResponse{id=5, title='title-A5', dueDate='2025-01-03T11:49:10.349Z', completed=true}
+2025-01-03 18:20:02.190 [main] INFO  executionLogger - ActivitiesResponse is- ActivitiesResponse{id=5, title='title-A5', dueDate='2025-01-03T11:49:10.349Z', completed=true}
+2025-01-03 18:20:02.190 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 18:20:02.190 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 18:20:02.206 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:24:53.284 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:24:53.285 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:24:53.287 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:24:53.287 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:24:53.604 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:24:53.910 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:24:53.917 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:24:55.471 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:24:55.473 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:24:55.477 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:25:30.843 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:25:30.844 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:25:30.845 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:25:30.846 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:25:31.103 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:25:31.352 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:25:31.358 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:25:32.737 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:25:32.738 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:25:32.742 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:47:22.322 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:47:22.323 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:47:22.324 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:47:22.325 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:47:22.589 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:47:22.832 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:47:22.838 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:47:24.207 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:47:24.208 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:47:24.215 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:48:59.224 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:48:59.224 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:48:59.226 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:48:59.226 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:48:59.489 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:48:59.741 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:48:59.749 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:49:01.277 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:49:01.278 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:49:01.281 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:50:55.286 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:50:55.286 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:50:55.288 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:50:55.288 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:50:55.548 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:50:55.809 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:50:55.815 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:50:57.528 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:50:57.530 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:50:57.534 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:51:07.101 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:51:07.101 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:51:07.103 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:51:07.103 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:51:07.362 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:51:07.612 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:51:07.620 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:51:09.021 [main] INFO  executionLogger - ActivitiesResponse is ActivitiesResponse{id=5, title='title-A5', dueDate='2025-01-03T11:49:10.349Z', completed=true}
+2025-01-03 19:51:09.022 [main] INFO  executionLogger - ActivitiesResponse is- ActivitiesResponse{id=5, title='title-A5', dueDate='2025-01-03T11:49:10.349Z', completed=true}
+2025-01-03 19:51:09.033 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:51:09.034 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:51:09.039 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:51:14.753 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:51:14.754 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:51:14.756 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:51:14.756 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:51:15.027 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:51:15.277 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:51:15.283 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:51:16.809 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:51:16.811 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:51:16.816 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:53:30.626 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:53:30.626 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:53:30.628 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:53:30.628 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:53:30.883 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:53:31.135 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:53:31.143 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:53:32.644 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:53:32.646 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:53:32.650 [main] INFO  executionLogger - Executing AfterSuite 
+2025-01-03 19:53:47.601 [main] INFO  executionLogger - Test Suite started
+2025-01-03 19:53:47.602 [main] INFO  executionLogger - Executing BeforeSuiteMethod . test tag name is--AutomationFramework
+2025-01-03 19:53:47.603 [main] INFO  executionLogger - DB_USER is root
+2025-01-03 19:53:47.604 [main] INFO  executionLogger - DB_PASSWORD is onlineqQ
+2025-01-03 19:53:47.862 [main] INFO  executionLogger - Executing BeforeTest . test tag name is--AutomationFramework  threadId is 1
+2025-01-03 19:53:48.115 [main] INFO  executionLogger - Executing BeforeClass threadId is 1
+2025-01-03 19:53:48.123 [main] INFO  executionLogger - Executing BeforeMethod . test tag name is--AutomationFramework threadId is 1
+2025-01-03 19:53:49.660 [main] INFO  executionLogger - Executing AfterClass 
+2025-01-03 19:53:49.662 [main] INFO  executionLogger - Executing AfterTest 
+2025-01-03 19:53:49.667 [main] INFO  executionLogger - Executing AfterSuite 

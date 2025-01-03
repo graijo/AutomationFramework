@@ -1,5 +1,8 @@
 package org.mine.tests;
 
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.specification.RequestSpecification;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.mine.listeners.WebDriverEventListenerClass;
@@ -21,16 +24,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-public class BaseTest {
-    protected WebDriver driver;
+public class BaseAPITest {
     protected static final Logger logger = LogManager.getLogger("executionLogger");
     protected Properties properties;
-    protected PageObjectManager pageObjectManager;
     private static final String DB_URL = "jdbc:mysql://localhost:3306/test_db";
-//    private static final String DB_USER = "root";
-//    private static final String DB_PASSWORD = "password";
     private Connection connection;
-    String appUrl;
+    protected  RequestSpecification requestSpec;
 
     @BeforeSuite
     public void beforeSuite(ITestContext context) {
@@ -42,9 +41,6 @@ public class BaseTest {
 
         clearAllureResults();
         setupDatabaseConnection();
-        loadConfig("config/framework.properties");
-        String implicitWait = properties.getProperty("implicitwait");
-        logger.info("implicitWait------" + implicitWait);
 
     }
 
@@ -53,9 +49,8 @@ public class BaseTest {
         //Configure test environment, e.g., setting API base URLs or loading test data.
         long threadId = Thread.currentThread().getId();
         logger.info("Executing BeforeTest . test tag name is--" + context.getName() + "  threadId is " + threadId);
-        loadConfig("config/framework.properties");
-//         appUrl=properties.getProperty("test.Url");
-        appUrl = properties.getProperty("test.Url");
+        RestAssured.baseURI = "https://reqres.in/";
+
     }
 
     @BeforeClass
@@ -68,33 +63,17 @@ public class BaseTest {
 
     }
 
-    @Parameters({"browser"})
     @BeforeMethod
-    public void setUpBeforeMethod(@Optional("chrome") String browser, ITestContext context) {
+    public void setUpBeforeMethod(ITestContext context) {
         //Prepare preconditions for each test method.
         //initializing WebDriver, API client
         long threadId = Thread.currentThread().getId();
         logger.info("Executing BeforeMethod . test tag name is--" + context.getName() + " threadId is " + threadId);
-        logger.info("Setting up WebDriver for browser: " + browser);
-
-        // Initialize WebDriver based on browser parameter
-        driver = createDriver(browser);
-
-        // Register WebDriver event listener
-        // Wrap WebDriver in EventFiringWebDriver to listen to WebDriver events
-        EventFiringWebDriver eventFiringDriver = new EventFiringWebDriver(driver);
-        // Register your WebDriverEventListener
-        WebDriverEventListenerClass eventListener = new WebDriverEventListenerClass();
-        // Assign the eventFiringWebDriver to your original driver reference
-        eventFiringDriver.register(eventListener);
-        // Use eventFiringDriver instead of driver in your tests
-        driver = eventFiringDriver;
-
-
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.manage().window().maximize();
-        //for thread safety when running test methods in paralel
-        pageObjectManager = new PageObjectManager(driver);
+        // Basic request setup
+        requestSpec = new RequestSpecBuilder()
+                .setBaseUri("https://reqres.in/")
+                .setContentType("application/json")
+                .build();
 
     }
 
@@ -103,12 +82,6 @@ public class BaseTest {
         //Method-level cleanup,
         //  Delete cookies, close WebDriver instances, or clear API client sessions.
 
-        logger.info("Executing AfterMethod ");
-        if (driver != null) {
-            driver.manage().deleteAllCookies();
-            driver.quit();
-            logger.info("WebDriver closed");
-        }
     }
 
     @AfterClass
@@ -132,21 +105,7 @@ public class BaseTest {
     }
 
 
-    private WebDriver createDriver(String browser) {
-        switch (browser.toLowerCase()) {
-            case "firefox":
-                return new FirefoxDriver();
-            case "chrome":
-            default:
-                // Enable verbose logging
-                System.setProperty("webdriver.chrome.verboseLogging", "true");
 
-                ChromeOptions options = new ChromeOptions();
-                options.addArguments("--remote-allow-origins=*");
-                return new ChromeDriver(options);
-//                return new ChromeDriver();
-        }
-    }
 
     private void loadConfig(String filePath) {
         properties = new Properties();
@@ -156,18 +115,7 @@ public class BaseTest {
         } catch (Exception e) {
             logger.error("Error loading configuration", e);
         }
-//        if (properties == null) {
-//            properties = new Properties();
-//            try (InputStream input = new FileInputStream("src/main/resources/config/framework.properties")) {
-//                properties.load(input);
-//            } catch (IOException ex) {
-//                ex.printStackTrace();
-//            }
-//        }
-    }
 
-    public WebDriver getDriver() {
-        return driver;
     }
 
     //The allure-results directory is not cleared automatically before a new test run.
@@ -198,24 +146,7 @@ public class BaseTest {
         }
     }
 
-    // Including executeQuery method in the base test class allows all tests to easily execute queries against the database.
-    public List<User> executeQueryForUsers(String query) {
-        List<User> users = new ArrayList<>(); //creates an empty list to store multiple objects of user-defined class User. We need this because a database query can return multiple rows, and each row will become a object (User class represents a data structure that maps to the database table) containing the corresponding data from that database row.
-        try (Statement stmt = connection.createStatement();
-             ResultSet rs = stmt.executeQuery(query)) {
 
-            while (rs.next()) {
-                User user = new User();
-                user.setId(rs.getInt("id"));
-//                user.setName(rs.getString("name"));
-                user.setEmail(rs.getString("email"));// getString() comes from the ResultSet class in java.sql package. It's a JDBC method to get data from database columns.
-                users.add(user);
-            }
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-        return users;
-    }
     public <T> List<T> executeQuery(String query, RowMapper<T> rowMapper) {
         List<T> results = new ArrayList<>();
         try (Statement stmt = connection.createStatement();
