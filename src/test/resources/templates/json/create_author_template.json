@@ -1,0 +1,6 @@
+{
+  "id": "{{id}}",
+  "idBook": "{{idBook}}",
+  "firstName": "{{firstName}}",
+  "lastName": "{{lastName}}"
+}

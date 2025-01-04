@@ -1,5 +1,7 @@
 package org.mine.tests;
 
+import io.qameta.allure.Allure;
+import io.qameta.allure.Step;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
@@ -13,17 +15,22 @@ import org.mine.models.api.response.ActivitiesResponse;
 import org.mine.models.api.response.RegisterResponse;
 import org.mine.utils.APIUtils;
 import org.mine.utils.JsonUtils;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+
+import java.util.Arrays;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.equalTo;
+import static org.mine.utils.ExcelUtils.readExcelData;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotNull;
 
 public class ApiTests extends BaseAPITest{
 
     @Test
+    @Step("getRequest tc")
     public void getRequest(){
         Response response = given()
                     .header("Content-Type", "application/json")
@@ -70,12 +77,14 @@ public class ApiTests extends BaseAPITest{
         logger.info("registerResponse getBody is "+registerRequest.toString());
 
     }
-    @Test
+    @Test(priority = -1)
+    @Step("model_Class_for_requestBuilding_and_response_extraction tc")
     public void model_Class_for_requestBuilding_and_response_extraction(){
          RestAssured.baseURI="https://fakerestapi.azurewebsites.net";
+        Allure.step("base uri "+"\n"+RestAssured.baseURI);
         // Create  request
         ActivitiesRequest activitiesRequest=new ActivitiesRequest(4,"title-A","2025-01-03T11:49:10.349Z",true);
-
+        Allure.step("ActivitiesRequest is "+"\n"+activitiesRequest.toString());
         // Send request and get response
         ActivitiesResponse activitiesResponse=given()
                 .header("accept"," text/plain")
@@ -89,6 +98,7 @@ public class ApiTests extends BaseAPITest{
                 .body("title",equalTo("title-A"))
                 .extract().as(ActivitiesResponse.class);
 
+        Allure.step("activitiesResponse is "+"\n"+activitiesResponse.toString());
        assertEquals(4, activitiesResponse.getId(), "ID should match expected value");
        assertEquals("title-A", activitiesResponse.getTitle(), "title should match expected value");
        assertEquals(true, activitiesResponse.isCompleted(), "Is Completed should match expected value");
@@ -201,11 +211,12 @@ public class ApiTests extends BaseAPITest{
 
     }
     @Test
-    public void verifyPostSendWith_Jsonbody_fromJsonFile(){
+    public void requestbody_fromJsonFile(){
         RestAssured.baseURI="https://fakerestapi.azurewebsites.net";
         // get request body from json file
         String authorRequestBody=JsonUtils.readJsonFile("src/test/resources/testdata/requestsJson/create_author.json");
         logger.info("authorRequestBody is "+"\n"+authorRequestBody);
+
         // Make API call and verify response
         AuthorResponse_Builder_Jackson authorResponse = given()
                 .contentType(ContentType.JSON)
@@ -224,8 +235,95 @@ public class ApiTests extends BaseAPITest{
         assert authorResponse.getLastName().equals("lion king");
 
     }
-    @Test
-    public void verifyPostSendWithUpdated_requestBody_OfJsonFile_with_TestData_From_excel(){
+    @Test(dataProvider = "excelDataProvider")
+    public void jsonFile_Requestbody_ReplacedWith_TestData_From_excel(Object...rowData){
+        logger.info("rowData is "+"\n"+Arrays.toString(rowData));
+        RestAssured.baseURI="https://fakerestapi.azurewebsites.net";
+        // Load JSON template from json file
+        String authorRequestBody=JsonUtils.readJsonFile("src/test/resources/templates/json/create_author_template.json");
+        logger.info("template authorRequestBody is "+"\n"+authorRequestBody);
+        // Step 2: Replace placeholders (optional)
+        //•	Casting with Number: The line int id = ((Number) rowData).intValue(); safely casts the object to a Number, which allows you to call .intValue() to get an integer representation. This works for both Integer and Double types.
+        int id= ((Number) rowData[0]).intValue();
+        int idBook=((Number) rowData[1]).intValue();
+        String firstName=(String) rowData[2];
+        String lastName=(String) rowData[3];
+        authorRequestBody = authorRequestBody.replace("{{id}}", String.valueOf(id))
+                .replace("{{idBook}}", String.valueOf(idBook))
+                .replace("{{firstName}}",firstName)
+                .replace("{{lastName}}",lastName);
+        logger.info("authorRequestBody is "+"\n"+authorRequestBody);
+        // Make API call and verify response
+        AuthorResponse_Builder_Jackson authorResponse = given()
+                .contentType(ContentType.JSON)
+                .body(authorRequestBody)
+                .when()
+                .post("/api/v1/Authors")
+                .then()
+                .statusCode(200)
+                .extract()
+                .as(AuthorResponse_Builder_Jackson.class);
+
+        // Verify response using assertions
+        assert authorResponse.getId().equals(id);
+        assert authorResponse.getIdBook().equals(idBook);
+        assert authorResponse.getFirstName().equals(firstName);
+        assert authorResponse.getLastName().equals(lastName);
 
     }
+    @DataProvider(name = "excelDataProvider")
+    public Object[][] excelDataProvider() {
+        String filePath = "src/test/resources/testdata.testdataExcel/testdata_author.xlsx";
+        String sheetName = "Sheet1";
+        return readExcelData(filePath, sheetName);
+    }
+
+
+    //not a good example of uasage of expectedExceptions,but to understand ,
+    // if an exception occurs and is expected,then expectedExceptions  allows you to specify
+    // one or more exceptions that your test method is expected to throw. If the specified exception is thrown, the test will pass; if not, it will fail.
+    @Test(expectedExceptions = {NumberFormatException.class,ClassCastException.class},dataProvider = "excelDataProviderExpectedException")
+    public void excpectedException_jsonFile_Requestbody_ReplacedWith_TestData_From_excel(Object...rowData){
+        logger.info("rowData is "+"\n"+Arrays.toString(rowData));
+        RestAssured.baseURI="https://fakerestapi.azurewebsites.net";
+        // Load JSON template from json file
+        String authorRequestBody=JsonUtils.readJsonFile("src/test/resources/templates/json/create_author_template.json");
+        logger.info("template authorRequestBody is "+"\n"+authorRequestBody);
+        // Step 2: Replace placeholders (optional)
+        //•	Casting with Number: The line int id = ((Number) rowData).intValue(); safely casts the object to a Number, which allows you to call .intValue() to get an integer representation. This works for both Integer and Double types.
+        int id= ((Number) rowData[0]).intValue();
+        int idBook=((Number) rowData[1]).intValue();
+        String firstName=(String) rowData[2];
+        String lastName=(String) rowData[3];
+        authorRequestBody = authorRequestBody.replace("{{id}}", String.valueOf(id))
+                .replace("{{idBook}}", String.valueOf(idBook))
+                .replace("{{firstName}}",firstName)
+                .replace("{{lastName}}",lastName);
+        logger.info("authorRequestBody is "+"\n"+authorRequestBody);
+        // Make API call and verify response
+        AuthorResponse_Builder_Jackson authorResponse = given()
+                .contentType(ContentType.JSON)
+                .body(authorRequestBody)
+                .when()
+                .post("/api/v1/Authors")
+                .then()
+                .statusCode(200)
+                .extract()
+                .as(AuthorResponse_Builder_Jackson.class);
+
+        // Verify response using assertions
+        assert authorResponse.getId().equals(id);
+        assert authorResponse.getIdBook().equals(idBook);
+        assert authorResponse.getFirstName().equals(firstName);
+        assert authorResponse.getLastName().equals(lastName);
+
+    }
+    @DataProvider(name = "excelDataProviderExpectedException")
+    public Object[][] excelDataProviderExpectedException() {
+        String filePath = "src/test/resources/testdata.testdataExcel/testdata_exception_author.xlsx";
+        String sheetName = "Sheet1";
+        return readExcelData(filePath, sheetName);
+    }
+
+
 }

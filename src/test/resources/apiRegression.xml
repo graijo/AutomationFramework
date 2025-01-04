@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!--<suite name="Test Automation Suite" parallel="tests" thread-count="2">-->
+<suite name="API Automation Suite" verbose="9" parallel="false">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+
+
+    <test name="API Tests ">
+        <classes>
+            <class name="org.mine.tests.ApiTests"/>
+        </classes>
+    </test>
+</suite>
