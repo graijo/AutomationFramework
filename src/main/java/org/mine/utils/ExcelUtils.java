@@ -70,3 +70,40 @@ public class ExcelUtils {
 
 
 }
+
+
+
+
+//
+//public static Object[][] readExcelData(String filePath, String sheetName) {
+//    List<List<Object>> data = new ArrayList<>();
+//    try (FileInputStream fis = new FileInputStream(filePath);
+//         Workbook workbook = new XSSFWorkbook(fis)) {
+//        Sheet sheet = workbook.getSheet(sheetName);
+//        int rowCount = sheet.getPhysicalNumberOfRows();
+//        int columnCount = sheet.getRow(0).getPhysicalNumberOfCells();
+//
+//        for (int i = 0; i < rowCount; i++) {
+//            Row row = sheet.getRow(i);
+//            if (row != null) {
+//                List<Object> rowData = new ArrayList<>();
+//                for (int j = 0; j < columnCount; j++) {
+//                    Cell cell = row.getCell(j);
+//                    rowData.add(getCellValue(cell));
+//                }
+//                data.add(rowData);
+//            }
+//        }
+//
+//        // Convert List<List<Object>> to Object[][]
+//        Object[][] result = new Object[data.size()][];
+//        for (int i = 0; i < data.size(); i++) {
+//            result[i] = data.get(i).toArray(new Object[0]);
+//        }
+//        return result;
+//
+//    } catch (IOException e) {
+//        logger.error("IOException occurred while reading data from excel", e);
+//        throw new RuntimeException(e);
+//    }
+//}

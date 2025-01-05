@@ -115,7 +115,7 @@ public class ApiTests extends BaseAPITest{
                 .header("Content-Type","application/json")
                 .body("{\n" +
                         "  \"id\": 0,\n" +
-                        "  \"title\": \"string\",\n" +
+                        "  \"title\": \"welcome -123\",\n" +
                         "  \"dueDate\": \"2025-01-03T11:40:49.097Z\",\n" +
                         "  \"completed\": true\n" +
                         "}")
@@ -124,7 +124,7 @@ public class ApiTests extends BaseAPITest{
                 .then()
                 .assertThat()
                 .statusCode(200)
-                .body("title",equalTo("string"))
+                .body("title",equalTo("welcome -123"))
                 .extract().response();
         //        assertNotNull(registerResponse.getToken(), "Token should not be null");
 //        assertEquals(4, registerResponse.getId(), "ID should match expected value");
