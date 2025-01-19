@@ -9,6 +9,8 @@
     <test name="BDD tests">
         <classes>
             <class name="org.mine.runner.TestRunner"/>
+            <class name="org.mine.runner.TestRunnerDataDriven"/>
+            <class name="org.mine.runner.TestRunnerWithTableValuePassing"/>
         </classes>
     </test>
 </suite>
